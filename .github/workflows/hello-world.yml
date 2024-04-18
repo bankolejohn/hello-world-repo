@@ -6,7 +6,7 @@ jobs:
 
     hello-job:
 
-        runs-on: ubuntun-latest 
+        runs-on: ubuntu-latest 
 
         steps:
 
